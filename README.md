@@ -1,5 +1,4 @@
 django
-======
 
 Django hello world
 
