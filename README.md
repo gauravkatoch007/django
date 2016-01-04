@@ -1,5 +1,1 @@
-django
-
-Django hello world
-
-Making some changes here
+Family tree model along with signals to maintain relevant relationship between entries.
